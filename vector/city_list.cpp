@@ -1,8 +1,3 @@
-// OOP - HW #3
-// 01.01.2018
-// Faik Göktuð Dilbaz
-// 040150603
-
 #include <iostream>
 #include <stdlib.h>
 #include <string>
