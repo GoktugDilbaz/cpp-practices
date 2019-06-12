@@ -1,5 +1,5 @@
 // BLG252E - HW1 - 23.10.2017
-// Faik Göktuð Dilbaz
+// Faik GÃ¶ktuÃ° Dilbaz
 // 040150603
 
 #include <cstdio>
