@@ -1,6 +1,4 @@
-// BLG252E - HW1 - 23.10.2017
-// Faik Göktuð Dilbaz
-// 040150603
+// Creates rectangles with random speeds and displays them using graphics.h
 
 #include <cstdio>
 #include <cstdlib>
