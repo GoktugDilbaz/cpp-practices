@@ -1,0 +1,15 @@
+11	Apeldoorn	100
+12	Baicheng	400
+14	Bhavnagar	200
+17	Datong		300
+18	Florencia	200
+19	Fontana		100
+21	Haiphong	400
+22	Hamilton	800
+23	Jaipur		300
+25	Korolev		100
+29	Namibe		400
+30	Ogbomosho	300
+39	Tanza		100
+40	Urawa		700
+44	Yingkou		300

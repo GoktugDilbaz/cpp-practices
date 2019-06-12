@@ -1,0 +1,10 @@
+10	Allende		500
+13	Banjul		600
+19	Fontana		200
+22	Hamilton	200
+29	Namibe		100
+34	Rancagua	600
+40	Urawa		200
+41	Vinh		900
+42	Wroclaw		600
+45	Zapopan		800
