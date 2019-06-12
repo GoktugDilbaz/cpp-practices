@@ -1,6 +1,6 @@
 // OOP - HW #3
 // 01.01.2018
-// Faik Göktuð Dilbaz
+// Faik GÃ¶ktuÃ° Dilbaz
 // 040150603
 
 #include <iostream>
